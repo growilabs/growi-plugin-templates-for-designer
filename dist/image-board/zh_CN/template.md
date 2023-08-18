@@ -1,4 +1,4 @@
-# 设计素材库是什么:face_with_monocle:？
+# 设计素材库是什么？:face_with_monocle:
 - :art: **设计素材库**用于整理收集到的图片素材，为设计提供灵感
 - 把你的灵感视觉化，使用素材库来完成你的设计吧！:sparkles: 
   - 利用**show/hide按钮**、你可以选择显示或不显示一部分的图像，来快速整理大量的素材
@@ -8,56 +8,47 @@
 <a class="btn btn-secondary" data-toggle="collapse" href="#exception2">
    show/hide
 </a>
+<div class="collapse" id="exception2" //以下的图像会收纳在show/hide按钮之中>
 
-<div class="collapse" id="exception2">
-  <div class="well">
-
-<div class="card-deck">
-  <div class="card">
-    <img src="https://octodex.github.com/images/minion.png" alt="图像1-1" class="card-img-top">
-    <div class="card-body">
-  </p>
-    </div>
+  <div class="card-deck">
+    <div class="card">
+        <img //sr的""里面放入图像
+            src="https://octodex.github.com/images/Robotocat.png"　//导入本地图像的时候要输入(/attachment/图像的名字)
+            class="card-img-top" 
+        />
+        <div class="card-body" //在这里可以留言或者写下图像的名字>
+          XX相关的图像
+        </div>
   </div>
-  <div class="card">
-    <img src="https://octodex.github.com/images/dojocat.jpg" alt="图像1-2" class="card-img-top">
-    <div class="card-body">
-     </p>
-    </div>
-</div>
 <div class="card">
-    <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="图像1-3" class="card-img">
-    <div class="card-body">
-     </p>
-</div>
- </p>
-</div>
-</div>
-</div>
-    </p>
-
+    <img src="https://octodex.github.com/images/stormtroopocat.jpg"
+    　　　　　class="card-img-top" 
+        />
+        <div class="card-body" //在这里可以留言或者写下图像的名字>
+          XX相关的图像
+        </div>
+　</div>
 
 </div>
 </div>
-<div class="clearfix mb-3"></div>
+<div class="clearfix mb-3" //以上的图像会收纳在show/hide按钮之中></div> 
 
-## 关于XX的图像
+## 关于〇〇的图像
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://octodex.github.com/images/minion.png" alt="图像1-1" class="card-img-top">
-    <div class="card-body">
-  </p>
-    </div>
-  </div>
+   <img src="https://octodex.github.com/images/minion.png"
+    　　　　　class="card-img-top" 
+        />
+        <div class="card-body">
+          XX相关的图像
+        </div>
+　</div>
   <div class="card">
-    <img src="https://octodex.github.com/images/dojocat.jpg" alt="图像1-2" class="card-img-top">
-    <div class="card-body">
-     </p>
-    </div>
-</div>
- </p>
-</div>
-</div>
-</div>
-    </p>
+    <img src="https://octodex.github.com/images/dojocat.jpg"
+    　　　　　class="card-img-top" 
+        />
+        <div class="card-body">
+          XX相关的图像
+        </div>
+　</div>
