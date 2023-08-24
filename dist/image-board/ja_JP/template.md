@@ -21,7 +21,7 @@
         </div>
   </div>
 <div class="card">
-    <img src="https://octodex.github.com/images/stormtroopocat.jpg"
+    <img src="https://octodex.github.com/images/stormtroopocat.png"
     　　　　　class="card-img-top" 
         />
         <div class="card-body" //コメントなどがあればいれてください>
