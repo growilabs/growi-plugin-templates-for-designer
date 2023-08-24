@@ -12,7 +12,7 @@
 
   <div class="card-deck">
     <div class="card">
-        <img //srcのの""内のイメージを差し替えてご利用ください
+        <img //srcの""内のイメージを差し替えてご利用ください
             src="https://octodex.github.com/images/Robotocat.png"　//ローカルのものは(/attachment/イメージの名前)を入れてください
             class="card-img-top" 
         />
