@@ -1,54 +1,31 @@
 # 设计素材库是什么？:face_with_monocle: 
 - :art: **设计素材库**用于整理收集到的图片素材，为设计提供灵感
+- 使用这个模版，你可以在一行之内同时浏览多张图像
 - 把你的灵感视觉化，使用素材库来完成你的设计吧！:sparkles: 
-  - 利用**show/hide按钮**、你可以选择显示或不显示一部分的图像，来快速整理大量的素材
+  - 利用**show/hide按钮**、你可以选择不显示一张张原本的图像，只显示整理好的设计素材库
+
+#### 设计素材库模版的使用方法
+   1. 在⬇️⬇️和⬆️⬆️之间上传图像（推荐拖拽图片上传）
+   1. 页面保存更新后设计素材库会自动生成
+   1. 调整`$refsimg(grid=col-3, grid-gap=1px)`中`grid=col-3` 的数字可以改变一行内显示图像的张数
+   1. 关于如何删除素材库内图像的方法请参考[这里](https://docs.growi.org/en/guide/features/delete_files.html)
 
 ## 关于〇〇的图像
 
-<a class="btn btn-secondary" data-toggle="collapse" href="#exception2">
+$refsimg(grid=col-3, grid-gap=1px)
+
+
+<a class="btn btn-secondary mt-5" data-toggle="collapse" href="#exception2">
    show/hide
 </a>
-<div class="collapse" id="exception2" //以下的图像会被收纳到show/hide之中>
+<div class="collapse" id="exception2" //以下的图像会被收纳到show/hide>
 
-  <div class="card-deck">
-    <div class="card">
-        <img //src的""之中放入图像的来源
-            src="https://octodex.github.com/images/Robotocat.png"　//本地来源的情况下请输入(/attachment/图像的命名)
-            class="card-img-top" 
-        />
-        <div class="card-body" //有任何对图像进行补充的笔记请写在这里>
-         XX的图像
-        </div>
-  </div>
-<div class="card">
-    <img src="https://octodex.github.com/images/stormtroopocat.png"
-    　　　　　class="card-img-top" 
-        />
-<div class="card-body" //有任何对图像进行补充的笔记请写在这里>
-         XX的图像
-        </div>
-　</div>
+- 请在这里拖拽上传图像⬇️⬇️
 
+
+⬆️⬆️
 </div>
 </div>
-<div class="clearfix mb-3" //以上的图像会被收纳到show/hide之中></div> 
+<div class="clearfix mb-3" //以上的图像会被收纳到show/hide></div>
+</div> 
 
-## 关于〇〇的图像
-
-<div class="card-deck">
-  <div class="card">
-   <img src="https://octodex.github.com/images/minion.png"
-    　　　　　class="card-img-top" 
-        />
-        <div class="card-body">
-          XX的图像
-        </div>
-　</div>
-  <div class="card">
-    <img src="https://octodex.github.com/images/dojocat.jpg"
-    　　　　　class="card-img-top" 
-        />
-        <div class="card-body">
-          XX的图像
-        </div>
-　</div>
