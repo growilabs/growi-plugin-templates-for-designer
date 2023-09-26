@@ -1,6 +1,6 @@
 # What is Imageboard? :face_with_monocle:
-- **Imageboard** :art: is used to organize materials such as images based on certain theme.
-- This template allows you to list and view multiple images in a gallery style.
+- **Imageboard** :art: is used to organize materials such as images based on certain themes.
+- This template allows you to list out and view multiple images in a gallery style.
 - Visualize your ideas and let's create your project!:sparkles: 
   
 
@@ -8,7 +8,7 @@
 $refsimg(grid=col-3, grid-gap=1px)
 
 
-#### The Way to Use  Imageboard Template
+#### Way to Use Imageboard Template
 <a class="btn btn-secondary" data-toggle="collapse" href="#exception2">
 Click to learn
 </a>
