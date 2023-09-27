@@ -1,4 +1,4 @@
-# GROWI Plugin Templates for Office
+# GROWI Plugin Templates for Designer
 
 - conference.md
 - pressrelease.md
