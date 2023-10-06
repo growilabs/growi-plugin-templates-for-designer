@@ -1,17 +1,17 @@
-# GROWI Plugin Templates for Designer
+## GROWI Plugin Templates for Designer
 
-- **リポジトリ URL**
+- リポジトリ URL
     - https://github.com/weseek/growi-plugin-templates-for-designer
-- for Designer パッケージはデザイナーのために作られたテンプレートです 
-- パッケージの中には、以下のテンプレートが含まれています
-    - イメージボード 🎨
-    - デザイン用語集 📃
-- 各テンプレートは**日本語、英語、中国語**、3つの言語に対応しています
+- パッケージに含まれているテンプレート
+    - **イメージボード**🎨
+    - **デザイン用語集**📃
+- 対応言語
+    - 日本語、英語、中国語
 ----
-- **Repository URL**
-    - https://github.com/weseek/growi-plugin-templates-for-designer
-- For Designer Package is a template package made for designers 
+- Repository URL
+    - https://github.com/weseek/growi-plugin-templates-for-designer 
 - The following templates are included in the package
-    - Imageboard 🎨
-    - Design Vocabulary List 📃
-- Each template is provided in three different languages: **Japanese, English, and Chinese**
+    - **Imageboard** 🎨
+    - **Design Vocabulary List** 📃
+- Supported Languages
+    - Japanese, English, Mandarin
