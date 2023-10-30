@@ -4,7 +4,7 @@
     - https://github.com/weseek/growi-plugin-templates-for-designer
 - パッケージに含まれているテンプレート （*下記 URL 中のサンプルからご参照ください）
   - **イメージボード**🎨
-    - [日本版](https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版)
+    - [https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版](https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版)
   - **デザイン用語集**📃
     - https://demo.growi.org/6532059116ad53fe6a21679e#日本語版
 - 対応言語
