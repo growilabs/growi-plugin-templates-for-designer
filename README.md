@@ -2,7 +2,7 @@
 
 - リポジトリ URL
     - https://github.com/weseek/growi-plugin-templates-for-designer
-- パッケージに含まれているテンプレート （*下記 URL 中のサンプルからご参照ください）
+- パッケージに含まれているテンプレート （*URL からサンプルを確認できます）
   - **イメージボード**🎨
     - [https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版](https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版)
   - **デザイン用語集**📃
