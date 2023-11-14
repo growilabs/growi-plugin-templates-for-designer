@@ -1,7 +1,5 @@
 ## GROWI Plugin Templates for Designer
 
-- リポジトリ URL
-    - https://github.com/weseek/growi-plugin-templates-for-designer
 - パッケージに含まれているテンプレート （URL からサンプルを確認できます）
   - **イメージボード**🎨
     - [https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版](https://demo.growi.org/6532039a16ad53fe6a215c84#日本語版)
@@ -10,8 +8,6 @@
 - 対応言語
     - 日本語、英語、中国語
 ----
-- Repository URL
-    - https://github.com/weseek/growi-plugin-templates-for-designer 
 - The following templates are included in the package (Check samples from the following URLs)
     - **Imageboard** 🎨
       - [https://demo.growi.org/6532039a16ad53fe6a215c84#english-version](https://demo.growi.org/6532039a16ad53fe6a215c84#english-version)
