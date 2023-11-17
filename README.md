@@ -6,12 +6,16 @@
   - **デザイン用語集**📃
     - [https://demo.growi.org/6532059116ad53fe6a21679e#日本語版](https://demo.growi.org/6532059116ad53fe6a21679e#日本語版)
 - 対応言語
-    - 日本語、英語、中国語
+  - 日本語、英語、中国語
+- プラグインのインストール方法
+  - [https://docs.growi.org/ja/admin-guide/management-cookbook/plugins.html#プラグインのインストール方法](https://docs.growi.org/ja/admin-guide/management-cookbook/plugins.html#プラグインのインストール方法)
 ----
 - The following templates are included in the package (Check samples from the following URLs)
-    - **Imageboard** 🎨
-      - [https://demo.growi.org/6532039a16ad53fe6a215c84#english-version](https://demo.growi.org/6532039a16ad53fe6a215c84#english-version)
-    - **Design Vocabulary List** 📃
-      - [https://demo.growi.org/6532059116ad53fe6a21679e#english-version](https://demo.growi.org/6532059116ad53fe6a21679e#english-version)
+  - **Imageboard** 🎨
+    - [https://demo.growi.org/6532039a16ad53fe6a215c84#english-version](https://demo.growi.org/6532039a16ad53fe6a215c84#english-version)
+  - **Design Vocabulary List** 📃
+    - [https://demo.growi.org/6532059116ad53fe6a21679e#english-version](https://demo.growi.org/6532059116ad53fe6a21679e#english-version)
 - Supported Languages
-    - Japanese, English, Mandarin
+  - Japanese, English, Mandarin
+- How to Install Plugins
+  - [https://docs.growi.org/en/admin-guide/management-cookbook/plugins.html#how-to-install-plugins](https://docs.growi.org/en/admin-guide/management-cookbook/plugins.html#how-to-install-plugins)
